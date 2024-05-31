@@ -1,4 +1,5 @@
 venv/
+sandbox/
 notebooks/token.dat
 
 # Byte-compiled / optimized / DLL files
