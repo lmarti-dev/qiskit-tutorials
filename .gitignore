@@ -1,6 +1,7 @@
 venv/
 sandbox/
 notebooks/token.dat
+*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
